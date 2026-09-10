@@ -1,0 +1,15 @@
+# 私有/内部数据 —— 永不开源
+terms_private.csv
+术语表.xlsx
+output*.xlsx
+*_twlog_*.xlsx
+*_tw_*.xlsx
+translation_stats.xlsx
+
+# 打包产物
+build/
+dist/
+*.spec
+__pycache__/
+.pytest_cache/
+.DS_Store
